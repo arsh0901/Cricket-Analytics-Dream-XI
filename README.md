@@ -6,6 +6,18 @@
 - Enables data-driven decision-making in cricket
 
 ---
+📌 Table of Contents
+Overview
+Tech Stack
+Objectives
+Process
+Key Features
+Power BI Dashboard
+How to Use
+Insights
+Conclusion
+Contact
+---
 
 # 📊 Overview
 
