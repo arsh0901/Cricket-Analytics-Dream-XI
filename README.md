@@ -93,13 +93,12 @@
 
 ---
 
-# 📈 Power BI Dashboard
+## 📊 Power BI Dashboard
 
-- Filter players by role and performance
-- Compare across multiple KPIs
-- Identify top performers visually
-- *(Add screenshots here)*
+> 📸 **Dashboard Overview:**  
+> ![Dashboard Preview](./Screenshot%202025-07-13%20170239.png)
+
+> 📸 **Player Performance Cards:**  
+> ![Player Cards](./Screenshot%202025-07-13%20170306.png)
 
 ---
-Drill-down by team, match, and individual stats.
-Clean UI/UX with slicers for interactivity.
